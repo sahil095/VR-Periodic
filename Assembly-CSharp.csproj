@@ -53,6 +53,13 @@
      <Compile Include="Assets\Scripts\LanthanoidsScript.cs" />
      <Compile Include="Assets\Scripts\PoorMetalsScript.cs" />
      <Compile Include="Assets\Scripts\TransitionMetalsScript.cs" />
+     <None Include="Assets\Materials\New materials\3DTextShader.shader" />
+     <None Include="Assets\Materials\New materials\AcrylicReflectiveTransparent.shader" />
+     <None Include="Assets\Materials\New materials\TransparentUnlit2.shader" />
+     <None Include="Assets\Materials\New materials\UITransparent.shader" />
+     <None Include="Assets\Materials\New materials\ForceField.shader" />
+     <None Include="Assets\Materials\New materials\AcrylicReflective.shader" />
+     <None Include="Assets\Materials\New materials\TransparentUnlit.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
