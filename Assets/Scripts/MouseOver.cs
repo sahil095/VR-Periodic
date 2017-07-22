@@ -7,13 +7,12 @@ public class MouseOver : MonoBehaviour {
 
 
 	public GameObject myImage;
-	void OnMouseEnter() {
-		Debug.Log ("Mouse Enter");
+	void OnMouseDown() {
+		Debug.Log ("Mouse Clicked");
 		myImage.SetActive(true);
+		//Not working
+		//Object.DontDestroyOnLoad(myImage);
+		// Application.LoadLevel("SecondScene");	
 	}
 
-	void OnMouseExit() {
-		Debug.Log ("Mouse Exit");
-		myImage.SetActive (false);
-	}
 }
