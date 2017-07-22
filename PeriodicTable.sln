@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable", "Assembly-CSharp.csproj", "{920A7C76-BB52-19E2-B378-6A69B2C44F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable", "Assembly-CSharp-Editor.csproj", "{614D344F-834A-3A9D-DC3A-CD8FEE766803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{920A7C76-BB52-19E2-B378-6A69B2C44F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{920A7C76-BB52-19E2-B378-6A69B2C44F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{920A7C76-BB52-19E2-B378-6A69B2C44F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614D344F-834A-3A9D-DC3A-CD8FEE766803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614D344F-834A-3A9D-DC3A-CD8FEE766803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614D344F-834A-3A9D-DC3A-CD8FEE766803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614D344F-834A-3A9D-DC3A-CD8FEE766803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
