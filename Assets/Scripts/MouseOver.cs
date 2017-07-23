@@ -12,7 +12,9 @@ public class MouseOver : MonoBehaviour {
 	 	GameObject[] obj = GameObject.FindGameObjectsWithTag("periodic");
  		obj[0].SetActive(false);
         Debug.Log ("Mouse Clicked");
-		myImage.SetActive(true); 		
+		myImage.SetActive(true);
+		GameObject[] obj = GameObject.FindGameObjectsWithTag("Li");
+ 		obj[0].SetActive(true);		
 	}
 
 }
