@@ -8,11 +8,11 @@ public class MouseOver : MonoBehaviour {
 
 	public GameObject myImage;
 	void OnMouseDown() {
-		Debug.Log ("Mouse Clicked");
-		myImage.SetActive(true);
-		//Not working
-		//Object.DontDestroyOnLoad(myImage);
-		// Application.LoadLevel("SecondScene");	
+		
+	 	GameObject[] obj = GameObject.FindGameObjectsWithTag("periodic");
+ 		obj[0].SetActive(false);
+        Debug.Log ("Mouse Clicked");
+		myImage.SetActive(true); 		
 	}
 
 }

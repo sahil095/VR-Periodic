@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ButtonScript.cs" />
      <Compile Include="Assets\Scripts\ActinoidsScript.cs" />
      <Compile Include="Assets\Scripts\AlkaliMetalsScript.cs" />
      <Compile Include="Assets\Scripts\AlkalineEarthMetalsScript.cs" />
