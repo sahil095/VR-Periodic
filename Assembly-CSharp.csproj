@@ -95,6 +95,7 @@
      <None Include="Assets\Materials\New materials\3DTextShader.shader" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\ArDemoMarker\authoringinfo.xml" />
+     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\Chemistry\authoringinfo.xml" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\ArDemoNote\authoringinfo.xml" />
@@ -112,6 +113,7 @@
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Materials\New materials\ForceField.shader" />
      <None Include="Assets\Materials\New materials\AcrylicReflective.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\Chemistry.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\ArDemoNote.xml" />
      <None Include="Assets\Materials\New materials\TransparentUnlit.shader" />
